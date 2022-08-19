@@ -1,0 +1,139 @@
+
+.principal 
+{
+    flood-color: rgb(33, 33, 233);
+
+}
+.conten{
+    width: 1280px;
+    height: 600px;
+    background-color: #000;
+}
+
+header{
+    width: 900px;
+    height: 100 px;
+    border: 1px solid #000;
+    float: left;
+}
+.logo{
+    <center>
+    width: 250px;
+    height: 50px;
+    border: 2px;
+    float: right;
+    </center>
+}
+.imagenlogo{
+    
+    float: right;
+   
+}
+.carousel{
+    
+    width: 700px;
+    height: 400px;
+    background-color: rgb(240, 94, 46);
+    background-attachment: fixed;
+    float: center;
+    
+}
+.anuncios{
+    background-color: rgb(43, 44, 36);
+    border: 3px;
+    float: center;
+}
+.abajo{
+  background-color: rgb(179, 62, 19);
+}
+.card {
+    float: initial;
+}
+.log{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(34, 32, 32);
+    float: center;
+
+}
+H1{
+    color: aliceblue;
+}
+H5{
+    color: aliceblue;
+}
+.class forminicio{
+    color: blanchedalmond
+    float: right;
+}
+#butonn{
+    color: blanchedalmond;
+}
+.pisos{
+    float
+}
+.contai{
+    width: 800;
+    height: 800;
+    background-color: rgb(18, 93, 168); 
+}
+header2{
+    
+    width: 700px;
+    height: 750 px;
+    border: 1px solid #000;
+    float: left;
+    background-color: rgb(69, 145, 221);
+}
+.content{
+    
+    width: 600px;
+    height: 400 px;
+    border: 2px solid #000;
+    float: center;
+    background-color: rgb(206, 113, 166);
+}
+* {
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    
+}
+body{
+    text-align: center;
+        background-color: paleturquoise;
+}
+table{
+table-layout: center;
+}
+
+ul,ol {
+    list-style: none;
+}
+.navs li a {
+   background-color: rgb(93, 170, 166);
+   color: rgb(3, 1, 3);
+   text-decoration: none;
+   padding: 10px 15px;
+   display: block;
+}
+.navs > li {
+    float: left;
+}
+
+.navs li ul{
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+.navs li:hover > ul {
+    display: block;
+}
+.container{
+    width: 400px;
+    clear: both;
+}
+.container input{
+    width: 100%;
+    clear: both;
+}
